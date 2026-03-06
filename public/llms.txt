@@ -1,0 +1,79 @@
+# Business — Generative Engine Optimization Map
+
+---
+
+## Pages
+
+### Home
+https://example.com
+Transform your business details into professional video ads in minutes. No design skills needed. Create stunning Facebook, Instagram &amp; TikTok ads instantly.
+
+### How It Works
+https://example.com/how-it-works
+Discover how ReadyToGo&#39;s automated video maker transforms templates into publication-ready ads. Choose, customize, and launch your social media campaigns fast.
+
+### Pricing
+https://example.com/pricing
+Skip expensive video production costs. Get unlimited access to our Instagram ad video generator tool and create professional ads for less than one agency video.
+
+### Contact
+https://example.com/contact
+Ready to automate your video ad creation? Contact our team to learn how ReadyToGo helps small businesses create TikTok ads and dominate social media advertising.
+
+### Products
+https://example.com/products
+Our Products - ReadyToGo
+
+### Cart
+https://example.com/cart
+Your Cart
+
+### Checkout
+https://example.com/checkout
+Checkout
+
+### Login
+https://example.com/login
+Customer Login
+
+### Account
+https://example.com/account
+My Account
+
+### Order Success
+https://example.com/order-success
+Thank you for your order
+
+### Product Detail
+https://example.com/product/:slug
+Product Details - ReadyToGo
+
+### Category
+https://example.com/category/:slug
+Products - ReadyToGo
+
+## Legal & Policy
+
+### Privacy Policy
+https://example.com/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://example.com/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://example.com/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Business
+---
+
+# Additional Resources
+
+- **Sitemap**: https://example.com/sitemap.xml
+- **Robots.txt**: https://example.com/robots.txt
